@@ -6,11 +6,11 @@ echo.
 
 :menu
 echo 1. Listar puertos que estan en escucha
-echo 2. Listar procesos en ejecución
+echo 2. Listar procesos en ejecucion
 echo 3. Mostrar informacion del sistema
 echo 4. Copiar registros de eventos
 echo 5. Mostrar usuarios locales y grupos locales
-echo 6. Mostrar información detallada de todas las interfaces de red
+echo 6. Mostrar informacion detallada de todas las interfaces de red
 echo 7. Salir
 echo.
 set /p "opcion=Selecciona una opcion: "

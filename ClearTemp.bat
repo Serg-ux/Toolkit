@@ -12,3 +12,4 @@ rem Desfragmentar discos
 echo Desfragmentando discos...
 defrag C: /O
 echo Limpieza completada.
+    
